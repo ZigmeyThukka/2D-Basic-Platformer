@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "2D basic platformer.data.unityweb",
+"asmCodeUrl": "2D basic platformer.asm.code.unityweb",
+"asmMemoryUrl": "2D basic platformer.asm.memory.unityweb",
+"asmFrameworkUrl": "2D basic platformer.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
